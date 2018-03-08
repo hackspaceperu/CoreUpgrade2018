@@ -28,3 +28,4 @@
   - Como ganar una hackathon *
   - Realidad aumentada *
   - MVC vs MVP vs MVVM *
+  - Elixir *
