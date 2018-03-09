@@ -30,3 +30,6 @@
   - [MVC vs MVP vs MVVM](https://docs.google.com/presentation/d/1SSovjtKI2G_SFotM7tp2yUcfuadBR3aYxjeI82DK6w8/edit?usp=sharing) + [Example](https://github.com/Diegitsen/MVC-vs-MVP-vs-MVVM)
   - [Solo hazlo](https://docs.google.com/presentation/d/16S-B2sTYVybuoC9JSon0xhJZ9jCkWcTNumjibHvSuKM/edit?usp=sharing)
   - Elixir 
+  - [Fisica Computacional](https://github.com/MistyBlunch/Fisica-computacional/blob/master/main.cpp)
+  - [Palindrome Numbers](https://github.com/MistyBlunch/palindrome_numbers)
+
