@@ -7,12 +7,12 @@
   - [Programacion Funcional con JS](https://es.slideshare.net/MarcoAntonioOrdoezVa/programacin-funcional-core-upgrade-febrero-2018-ejemplos-con-javascript)
   - [Tips para hacer un trabajo y no salir perdiendo](https://docs.google.com/presentation/d/1VyuFF6oo9xJBUHr9IOfQrSDsff78Syy1Sq4Nk71RIFU/edit?usp=sharing)
   - [Mobile Vision API](https://docs.google.com/presentation/d/1stmkariaMyU8oD5a5JUi5YQLAnPFceJrTytDVuNWRSI/edit?usp=sharing)
-  - Creating bmp images with C *
+  - [Creating bmp images with C](https://gitlab.com/jangelmauricio7/BitmapFiles_from_Coordinates)
   - [El espiritu de Scrum](https://mega.nz/#!7N0TXJrT!MSiGU9wWcePONrdftZ8GjrIPWDAuVAjp7zGPUEijfik)
   - [Metodologías Ágiles en el CoreUpgrade 2018 de HackSpace Perú](https://medium.com/metodolog%C3%ADas-%C3%A1giles-lima/metodolog%C3%ADas-%C3%A1giles-en-el-coreupgrade-2018-de-hackspace-per%C3%BA-cd0e2e031109)
 - Martes
-  - [Backend con Firebase functions + Live Coding *](https://github.com/briansalvattore)
-  - [Web scrapping with Python *](https://github.com/sagoyanfisic)
+  - Backend con Firebase functions + Live Coding *
+  - Web scrapping with Python
   - [JS WTF with Math!](https://hackernoon.com/js-wtf-with-math-79da9a941ec1)
   - [Coercion in JS](https://www.safaribooksonline.com/library/view/you-dont-know/9781491905159/ch04.html)
   - [You don't know JS](https://github.com/getify/You-Dont-Know-JS)
@@ -27,5 +27,6 @@
   - [JS live coding](https://github.com/Hanshavin/circles)
   - Como ganar una hackathon *
   - Realidad aumentada *
-  - MVC vs MVP vs MVVM *
+  - [MVC vs MVP vs MVVM](https://docs.google.com/presentation/d/1SSovjtKI2G_SFotM7tp2yUcfuadBR3aYxjeI82DK6w8/edit?usp=sharing) + [Example](https://github.com/Diegitsen/MVC-vs-MVP-vs-MVVM)
+  - [Solo hazlo](https://docs.google.com/presentation/d/16S-B2sTYVybuoC9JSon0xhJZ9jCkWcTNumjibHvSuKM/edit?usp=sharing)
   - Elixir *
