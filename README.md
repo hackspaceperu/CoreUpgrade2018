@@ -11,7 +11,7 @@
   - [El espiritu de Scrum](https://mega.nz/#!7N0TXJrT!MSiGU9wWcePONrdftZ8GjrIPWDAuVAjp7zGPUEijfik)
   - [Metodologías Ágiles en el CoreUpgrade 2018 de HackSpace Perú](https://medium.com/metodolog%C3%ADas-%C3%A1giles-lima/metodolog%C3%ADas-%C3%A1giles-en-el-coreupgrade-2018-de-hackspace-per%C3%BA-cd0e2e031109)
 - Martes
-  - Backend con Firebase functions + Live Coding *
+  - Backend con Firebase functions + Live Coding 
   - Web scrapping with Python
   - [JS WTF with Math!](https://hackernoon.com/js-wtf-with-math-79da9a941ec1)
   - [Coercion in JS](https://www.safaribooksonline.com/library/view/you-dont-know/9781491905159/ch04.html)
@@ -20,13 +20,13 @@
 - Miercoles
   - [Introduccion a la teoria musical](http://slides.com/xpktro/musicajs#/)
   - [Web MIDI API](http://slides.com/xpktro/web-midi#/)
-  - Android for begginers *
-  - Algebra simbolica C++ *
+  - Android for begginers 
+  - Algebra simbolica C++ 
 - Jueves
   - [Productivity tools 4 developers](https://docs.google.com/presentation/d/1CRe2wBy-9qEP2VxPFKQkHiYrmHua0PrwfXKcWgauXyI/edit?usp=sharing)
   - [JS live coding](https://github.com/Hanshavin/circles)
-  - Como ganar una hackathon *
-  - Realidad aumentada *
+  - Como ganar una hackathon 
+  - Realidad aumentada 
   - [MVC vs MVP vs MVVM](https://docs.google.com/presentation/d/1SSovjtKI2G_SFotM7tp2yUcfuadBR3aYxjeI82DK6w8/edit?usp=sharing) + [Example](https://github.com/Diegitsen/MVC-vs-MVP-vs-MVVM)
   - [Solo hazlo](https://docs.google.com/presentation/d/16S-B2sTYVybuoC9JSon0xhJZ9jCkWcTNumjibHvSuKM/edit?usp=sharing)
-  - Elixir *
+  - Elixir 
