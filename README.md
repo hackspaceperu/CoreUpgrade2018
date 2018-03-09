@@ -25,8 +25,8 @@
 - Jueves
   - [Productivity tools 4 developers](https://docs.google.com/presentation/d/1CRe2wBy-9qEP2VxPFKQkHiYrmHua0PrwfXKcWgauXyI/edit?usp=sharing)
   - [JS live coding](https://github.com/Hanshavin/circles)
-  - Como ganar una hackathon 
-  - Realidad aumentada 
+  - [Como ganar una hackathon](https://drive.google.com/file/d/1YfTHBdh1zwUcpZQ7q8widx_JuPd05my7/view?usp=sharing)
+  - [Realidad aumentada](https://drive.google.com/file/d/1nLw5wH9dyw383noEN8UxYvCFZu8_V-q9/view?usp=sharing)
   - [MVC vs MVP vs MVVM](https://docs.google.com/presentation/d/1SSovjtKI2G_SFotM7tp2yUcfuadBR3aYxjeI82DK6w8/edit?usp=sharing) + [Example](https://github.com/Diegitsen/MVC-vs-MVP-vs-MVVM)
   - [Solo hazlo](https://docs.google.com/presentation/d/16S-B2sTYVybuoC9JSon0xhJZ9jCkWcTNumjibHvSuKM/edit?usp=sharing)
   - Elixir 
