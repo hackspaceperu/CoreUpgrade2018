@@ -32,4 +32,10 @@
   - Elixir 
   - [Fisica Computacional](https://github.com/MistyBlunch/Fisica-computacional/blob/master/main.cpp)
   - [Palindrome Numbers](https://github.com/MistyBlunch/palindrome_numbers)
+- Viernes
+  - Internet de las cosas
+  - [Expresiones regulares con Python](https://github.com/gersongams/admision)
+  - Deploy de tu aplicacion con un VPS
+  - Web components con React.js
+  - Soft skills
 
